@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+  </head>
+  <body>
+    <h1>Welcome to my Website!</h1>
+    <p>Here you can find information about myself and my interests.</p>
+    <div>
+      <h2>About Me</h2>
+      <p>I'm a web developer who loves to work on projects that make a difference.</p>
+    </div>
+    <div>
+      <h2>Interests</h2>
+      <ul>
+        <li>Programming</li>
+        <li>Hiking</li>
+        <li>Photography</li>
+      </ul>
+    </div>
+  </body>
+</html>
